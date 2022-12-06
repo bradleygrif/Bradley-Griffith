@@ -16,6 +16,6 @@ The purpose of this repository is to demonstrate my technical proficiencies, in 
 
 ### Great American Insurance - Technical Analyst/Risk Analyst - March 2020- Present
 
--Develop Python scripts for the purpose of extracting, formatting, and auditing data to be used in catastrophe modeling. 
--Assist in development of a data mart for the purposes of landing property data.
--
+* Develop Python scripts for the purpose of extracting, formatting, and auditing data to be used in catastrophe modeling. 
+* Assist in development of a data mart for the purposes of landing property data.
+* 
