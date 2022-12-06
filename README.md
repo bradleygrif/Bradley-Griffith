@@ -13,6 +13,7 @@ I also attained a Bachelors of Science in Mathematics with a focus in Computatio
 The purpose of this repository is to demonstrate my technical proficiencies, in both what I currently use in my daily career, as well as my prior experience. 
 
 ## Experience
+
 ### Great American Insurance - Technical Analyst/Risk Analyst - March 2020- Present
 
 -Develop Python scripts for the purpose of extracting, formatting, and auditing data to be used in catastrophe modeling. 
