@@ -57,13 +57,13 @@ The purpose of this repository is to demonstrate my technical proficiencies, in 
 * Oracle SQL
 * Data preparation
 * Communication
+* Github
 
 ### Intermediate:
 * SAS
 * Probability
 * Statistics
 * Mathematical Modeling & Analysis
-* 
 
 ### Novice
 * Tableau
