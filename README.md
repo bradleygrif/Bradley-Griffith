@@ -1,4 +1,4 @@
-# BradleyGriffith
+# Bradley Griffith
 
 Hello! You have arrived at Bradley Griffith's personal Github repository. 
 The purpose of this repository is to demonstrate some of my skills. 
