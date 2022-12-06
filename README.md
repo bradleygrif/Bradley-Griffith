@@ -10,7 +10,9 @@ Today, I mainly work in Python and SQL, but in the past I have had professional 
 
 I also attained a Bachelors of Science in Mathematics with a focus in Computational and Applied Mathematics from the University of Louisville in 2016. While the school did not allow for a minor in programming at the time, I took what programming courses I was able to, while also landing one credit hour short of a minor in physics.
 
-The purpose of this repository is to demonstrate my technical proficiencies, in both what I currently use in my daily career, as well as my prior experience. 
+The purpose of this repository is to demonstrate my technical proficiencies, in both what I currently use in my daily career, as well as my prior experience. \nIt contains 2 main folders folders:
+* Data Preparation and Formatting - Demonstrates skills related to my current work
+* Data Analysis - Demonstrates skills related to my education, but not necessarily my current work.
 
 ## Experience
 
