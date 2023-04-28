@@ -20,10 +20,10 @@ The purpose of this repository is to demonstrate my technical proficiencies, in 
 
 * Develop and maintain Python scripts for the purpose of extracting, formatting, and auditing data to be used in catastrophe modeling. This data is stored in a TSQL database.
 * Develop SQL scripts that are in turn called by our Python script for the purpose of extracting and manipulating data. 
-* Communicate data quality issues with various proffesionals in different roles and backgrounds.
+* Communicate data quality issues with various professionals in different roles and backgrounds.
 * Assist in development of an Oracle SQL data mart for the purposes of landing property data.
 * Evaluate data sources to determine quality and format of data in midstream systems.
-* Evaluate data downstream to ensure that data integrity was mainted through the feed to our data mart.
+* Evaluate data downstream to ensure that data integrity was maintained through the feed to our data mart.
 * Assist with data preparation for reporting of result data.
 
 ### Data Manager - Indiana University School of Medicine - October 2018-February 2020
