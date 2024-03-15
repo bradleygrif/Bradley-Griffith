@@ -18,13 +18,14 @@ The purpose of this repository is to demonstrate my technical proficiencies, in 
 
 ### Great American Insurance - Technical Analyst/Risk Analyst - March 2020-Present
 
-* Develop and maintain Python scripts for the purpose of extracting, formatting, and auditing data to be used in catastrophe modeling. This data is stored in a TSQL database.
-* Develop SQL scripts that are in turn called by our Python script for the purpose of extracting and manipulating data. 
-* Communicate data quality issues with various professionals in different roles and backgrounds.
-* Assist in development of an Oracle SQL data mart for the purposes of landing property data.
-* Evaluate data sources to determine quality and format of data in midstream systems.
-* Evaluate data downstream to ensure that data integrity was maintained through the feed to our data mart.
-* Assist with data preparation for reporting of result data.
+*	Develop and maintain Python scripts for the purpose of extracting-transforming-loading (ETL), auditing, and summarizing data to be used in catastrophe modeling. 
+*	Develop SQL queries that are in turn called by our Python script for the purpose of extracting and transforming data.
+*	Communicate data quality issues with various professionals in different roles and backgrounds.
+*	Assist in development of an Oracle SQL data mart for the purposes of landing property data.
+*	Evaluate data sources to determine quality and format of data in upstream policy administration systems.
+*	Evaluate data downstream to ensure that data integrity was maintained through the feed to our data mart.
+*	Assist with data preparation for reporting of result data.
+
 
 ### Data Manager - Indiana University School of Medicine - October 2018-February 2020
 * Designed databases for use in clinical research studies. 
